@@ -1,0 +1,23 @@
+.feed{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    background-color: #fff;
+    margin-top: 12px;
+    margin-right: 0px;
+    margin-bottom: 12px;
+    margin-left: 0px;
+    padding: 12px;
+}
+.post .title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.post img {
+    width: 640px;
+}
