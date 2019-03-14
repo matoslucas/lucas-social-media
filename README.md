@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## URL DEMO
 
-[DEMO](https://lucas-social-media-feed.firebaseapp.com/)
+[DEMO LINK](https://lucas-social-media-feed.firebaseapp.com/)
 
 ## Available Scripts
 
